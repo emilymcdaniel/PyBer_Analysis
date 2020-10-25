@@ -34,7 +34,7 @@ The following recommendations are based on the data provided and additional cons
 2. Consider why urban drivers are willing to make trips for less fares per trip. Pull data to determine:
    - Whether drivers complete multiple trips simultaneously
    - How many trips each driver completes, on average, per day.
-   - How does time of day or time of week impact?
+   - How does time of day or time of week impact your interest in accepting requests?
 3. Examine needs of rural areas.
    - Do rural trips typically originate and end at common locations?
    - What is the demographic of customers who currently use PyBer in rural areas? 
