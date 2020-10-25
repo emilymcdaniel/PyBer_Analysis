@@ -11,13 +11,13 @@ The chart below is a summary of PyBer's business, with the variables discussed a
 ![PyBer Summary](https://github.com/emilymcdaniel/PyBer_Analysis/blob/main/Resources/PyBer%20Summary.PNG?raw=true)
 
 ### Rural
-Rural areas have the fewest rides and drivers and total fares, but their average fare per ride and per rider are the highest. 
+Rural areas have the fewest rides and drivers and total fares, but their average fare per ride and per rider are the highest. There is little variation in the total fares between Jan 1, 2019 - April 29, 2019.
 
 ### Suburban
-Here, we see the number of total rides is fairly close to the number of total drivers. The fares from all views fall between urban and rural areas.
+Here, we see the number of total rides is fairly close to the number of total drivers. The fares from all views fall between urban and rural areas. Between Jan 1, 2019 - April 29, 2019, fares spike at the end of February and April.
 
 ### Urban 
-In urban areas, we see the highest volume of rides, number of drivers and the total fares. However, the average fare per driver and per rider is the lowest. It is no surprise that lower fares will result in increased interest from riders. However, the high volume of drivers is curious considering the steep drop in earnings in fare per trip.
+In urban areas, we see the highest volume of rides, number of drivers and the total fares. However, the average fare per driver and per rider is the lowest. It is no surprise that lower fares will result in increased interest from riders. However, the high volume of drivers is curious considering the steep drop in earnings in fare per trip. Between Jan 1, 2019 - April 29, 2019, a sustained increase in overall city fares occurred.
 
 
 **Total Fare by City Type**
@@ -36,9 +36,9 @@ The following recommendations are based on the data provided and additional cons
    b. How many trips each driver completes, on average, per day.
    c. How does time of day or time of week impact?
 3. Examine needs of rural areas.
-   a. Do rural trips typically originate and end at common locations?
-   b. What is the demographic of customers who currently use PyBer in rural areas? 
-   c. How can we better market to other demographics who could take advantage of this service? Consider the elderly, handicapped, underage, etc.
+   - Do rural trips typically originate and end at common locations?
+   - What is the demographic of customers who currently use PyBer in rural areas? 
+   - How can we better market to other demographics who could take advantage of this service? Consider the elderly, handicapped, underage, etc.
 ---
 To review the complete dataset please follow this link: [PyBer Analysis Data]
 (https://github.com/emilymcdaniel/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
