@@ -40,6 +40,6 @@ The following recommendations are based on the data provided and additional cons
    - What is the demographic of customers who currently use PyBer in rural areas? 
    - How can we better market to other demographics who could take advantage of this service? Consider the elderly, handicapped, underage, etc.
 ---
-To review the complete dataset please follow this link: [PyBer Analysis Data]
-(https://github.com/emilymcdaniel/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
+To review the complete dataset please follow this link: 
+[PyBer Analysis Data](https://github.com/emilymcdaniel/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
 
