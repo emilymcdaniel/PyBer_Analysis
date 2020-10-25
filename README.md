@@ -27,14 +27,14 @@ In urban areas, we see the highest volume of rides, number of drivers and the to
 ## Business Recommendations
 The following recommendations are based on the data provided and additional considerations:
 1. Should the number of drivers be reduced or increased in suburban areas? Survey drivers, and ask them how they engage with PyBer. 
-   a. Are they frequently looking for new trips and none are available? 
-   b. Are they only interested in driving during small time windows or within specific areas?
-   c. Does the length of the trip affect your willingness to accept the trip?
-   d. Does the region of the trip affect your willingness to accept the trip?
+   - Are they frequently looking for new trips and none are available? 
+   - Are they only interested in driving during small time windows or within specific areas?
+   - Does the length of the trip affect your willingness to accept the trip?
+   - Does the region of the trip affect your willingness to accept the trip?
 2. Consider why urban drivers are willing to make trips for less fares per trip. Pull data to determine:
-   a. Whether drivers complete multiple trips simultaneously
-   b. How many trips each driver completes, on average, per day.
-   c. How does time of day or time of week impact?
+   - Whether drivers complete multiple trips simultaneously
+   - How many trips each driver completes, on average, per day.
+   - How does time of day or time of week impact?
 3. Examine needs of rural areas.
    - Do rural trips typically originate and end at common locations?
    - What is the demographic of customers who currently use PyBer in rural areas? 
